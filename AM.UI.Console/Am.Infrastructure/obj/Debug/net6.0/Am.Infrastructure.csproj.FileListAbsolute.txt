@@ -1,0 +1,17 @@
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\bin\Debug\net6.0\Am.Infrastructure.deps.json
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\bin\Debug\net6.0\Am.Infrastructure.runtimeconfig.json
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\bin\Debug\net6.0\Am.Infrastructure.dll
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\bin\Debug\net6.0\Am.Infrastructure.pdb
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.AssemblyInfo.cs
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.csproj.CopyComplete
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.dll
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\refint\Am.Infrastructure.dll
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.pdb
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\Am.Infrastructure.genruntimeconfig.cache
+C:\Users\THINKPAD\source\repos\Nesrine-Naouar-Esprit\airportmanagement-tp1-Oussama-Lachiheb\AM.UI.ConsoleOussama\Am.Infrastructure\obj\Debug\net6.0\ref\Am.Infrastructure.dll

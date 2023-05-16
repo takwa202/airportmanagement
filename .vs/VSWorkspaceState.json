@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AM.UI.ConsoleOussama",
+    "\\AM.UI.ConsoleOussama\\AM.ApplicationCore",
+    "\\AM.UI.ConsoleOussama\\AM.ApplicationCore\\Services",
+    "\\AM.UI.ConsoleOussama\\Am.Infrastructure",
+    "\\AM.UI.ConsoleOussama\\Am.UI.WebApplicion\\Views",
+    "\\AM.UI.ConsoleOussama\\Am.UI.WebApplicion\\Views\\Plane"
+  ],
+  "SelectedNode": "\\AM.UI.ConsoleOussama\\Am.Infrastructure\\UnitOfWork.cs",
+  "PreviewInSolutionExplorer": false
+}
